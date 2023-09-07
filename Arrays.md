@@ -1,5 +1,4 @@
 # Arrays
-
 * Dato y definiciones
 * Un solo valor
 * Casa / Texto
@@ -14,3 +13,5 @@
 * Que se empiezan a contar desde el numero 0
 * Los Arrays tienen un tamano y una longitud
 * Un Array de cuatro espacio (4 espacios) tiene (3 espacios) (0, 1, 2, 3)
+* Tienen un uso de memoria
+* Tiene uso de posiciones
